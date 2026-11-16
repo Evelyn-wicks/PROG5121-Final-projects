@@ -250,7 +250,7 @@ public class Prog_5121final {
         String[] testMessages = {
             "come get the cake?",
             "Where are you? You are always late Mbali! I have asked you to be on time.",
-            "Yohoooo, I am at your gate.",
+            "Heyyy!, I am at your gate.",
             "It is dinner time !",
             "Fine, I am leaving without you bye."
         };

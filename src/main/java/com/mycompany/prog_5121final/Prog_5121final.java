@@ -251,7 +251,7 @@ public class Prog_5121final {
             "come get the cake?",
             "Where are you? You are always late Mbali! Girl i have asked you to be on time.",
             "Heyyy!, I am at your gate.",
-            "It is dinner time !",
+            "It is dinner time now !",
             "Fine, I am leaving without you bye."
         };
         String[] testHashes = {"00:0:DIDCAKE", "00:1:WHEREWA", "00:2:YOHOOOO", "00:3:ITDINNER", "00:4:OKLEAVING"};

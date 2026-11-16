@@ -130,11 +130,11 @@ public class Prog_5121final {
 
         // PART 2: MESSAGING FEATURE (Gated by successful login)[span_5](start_span)[span_5](end_span)
         if (isLoggedIn) {
-            System.out.println("\nWelcome to QuickChat.");[span_6](start_span)[span_6](end_span)
+            System.out.println("\nWelcome to whatsapp.");[span_6](start_span)[span_6](end_span)
             boolean running = true;
             
             while (running) {[span_7](start_span)[span_7](end_span)[span_8](start_span)[span_8](end_span)
-                System.out.println("\n--- QuickChat Menu ---");
+                System.out.println("\n--- Whatsapp Menu ---");
                 System.out.println("1) Send Messages");[span_9](start_span)[span_9](end_span)
                 System.out.println("2) Show recently sent messages");[span_10](start_span)[span_10](end_span)
                 System.out.println("3) Quit");[span_11](start_span)[span_11](end_span)

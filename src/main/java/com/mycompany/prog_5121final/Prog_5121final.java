@@ -231,7 +231,7 @@ public class Prog_5121final {
                 }
             }
         } else {
-            System.out.println("Access denied. You must log in successfully to use QuickChat.");[span_24](start_span)[span_24](end_span)
+            System.out.println("Access denied. You must log in successfully to use Whatsapp.");[span_24](start_span)[span_24](end_span)
         }
         scanner.close();
     }

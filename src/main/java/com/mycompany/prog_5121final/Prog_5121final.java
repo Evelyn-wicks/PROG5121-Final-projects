@@ -249,7 +249,7 @@ public class Prog_5121final {
         String[] testRecipients = {"+27834557896", "+27838884567", "+27834484567", "0838884567", "+27838884567"};
         String[] testMessages = {
             "come get the cake?",
-            "Where are you? You are late! I have asked you to be on time.",
+            "Where are you? You are always late Mbali! I have asked you to be on time.",
             "Yohoooo, I am at your gate.",
             "It is dinner time !",
             "Fine, I am leaving without you bye."

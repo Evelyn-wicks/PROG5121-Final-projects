@@ -4,7 +4,9 @@ Whatsapp is a Java-based console application designed as an integrated messaging
 3. Part 3 (Data Structures & Reporting): Utilizes parallel arrays to manage, search, sort, and delete sent, stored, and disregarded messages, while providing detailed reporting features. PROG:HITHAN POE.pdf
 The project emphasizes software engineering best practices, incorporating unit testing via JUnit, version control via Git/GitHub, and continuous integration through GitHub Actions. 
 
-References
+Reference list
+
+
  The Independent Institute of Education (Pty) Ltd (IIE). (2026). Programming 1A: Portfolio of Evidence (POE) Paper & Marking Rubrics (Module Code: PROG5121/p/w). Johannesburg: IIE.
  QuickBlox. (2026). Beginner's Guide to Chat App Architecture. Retrieved from QuickBlox Blog. PROG POE.pdf
  Oracle. (2026). Java Documentation: Classes, Methods, Strings, and Arrays. Oracle Corporation.

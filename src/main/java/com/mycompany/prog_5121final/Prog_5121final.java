@@ -223,7 +223,7 @@ public class Prog_5121final {
 
                     case 3:
                         running = false;
-                        System.out.println("Exiting QuickChat. Goodbye!");
+                        System.out.println("Exiting Whatsapp. Goodbye!");
                         break;
 
                     default:

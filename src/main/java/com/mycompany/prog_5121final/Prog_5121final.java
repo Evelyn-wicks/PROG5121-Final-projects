@@ -128,7 +128,7 @@ public class Prog_5121final {
             System.out.println(loginStatus);
         }
 
-        // PART 2: MESSAGING FEATURE (Gated by successful login)[span_5](start_span)[span_5](end_span)
+        // PART 2: MESSAGING FEATURE (Potected by successful login)[span_5](start_span)[span_5](end_span)
         if (isLoggedIn) {
             System.out.println("\nWelcome to whatsapp.");[span_6](start_span)[span_6](end_span)
             boolean running = true;

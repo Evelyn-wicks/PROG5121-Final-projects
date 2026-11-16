@@ -85,7 +85,7 @@ public class Prog_5121final {
                  } catch (IOExeption e) {
                      System.out,println("Error writing: " + e.getMessage());
                      
-                     //part 2 messaging feature
+                     //part 2 messaging feature updates
            import java.util.Scanner;
 import java.util.Random;
 

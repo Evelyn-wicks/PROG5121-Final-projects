@@ -246,7 +246,7 @@ public class Prog_5121final {
              public int loadStoredMessagesToArray(String[] storedMessagesArray, String[] recipientArray, String[] hashArray, String[] idArray) {
         // In a complete implementation, you would read line-by-line from "stored_messages.json"
         // Here is the sample test data required by the PoE to populate arrays for testing:
-        String[] testRecipients = {"+27834557896", "+27838884567", "+27834484567", "0838884567", "+27838884567"};
+        String[] testRecipients = {"+27834667896", "+27835554567", "+27834444567", "0838884567", "+27838884567"};
         String[] testMessages = {
             "come get the cake?",
             "Where are you? You are always late Mbali! I have asked you to be on time.",
